@@ -1,6 +1,6 @@
 Mint
 =======
-Description:
+Description
 ---
 Analyze your Mint data in Looker! The get_transactions.py is a python script which authenticates the user into Mint, downloads transaction data, and loads it into a MySQL database. 
 
