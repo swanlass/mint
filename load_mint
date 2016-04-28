@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "We are now going to execute the commands to pull data from Mint, then load it into our DB."
+
+
+python get_transactions.py
