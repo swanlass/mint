@@ -16,7 +16,7 @@ Steps
 Notes
 ---
 - If you would like to do more complex stuff then what my script offers, consider using [this](https://github.com/mrooney/mintapi) api: 
-- If you would like to use a postgres db instead, it should be pretty easy to get_transactions.py for a postgres library instead of the MySQLdb library. I think importing and using the psycopg2 library would work.
+- If you would like to use a postgres db instead, it should be pretty easy to change get_transactions.py for a postgres library instead of the MySQLdb library. I think importing and using the psycopg2 library would work.
 
 
 
